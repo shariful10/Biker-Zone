@@ -6,3 +6,24 @@
 .footer-text p{
     padding-right: 10px;
 }
+
+.btn-outline-danger{
+    border: 1px solid #E76F51 !important;
+}
+
+.btn.btn-outline-danger:hover{
+    background-color: #E76F51 !important;
+}
+
+.btn-danger{
+    border: #E76F51;
+    background-color: #E76F51 !important;
+}
+
+.text-danger{
+    color: #E76F51 !important;
+}
+
+footer{
+    background-color: #000 !important;
+}
